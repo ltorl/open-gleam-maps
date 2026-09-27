@@ -1,6 +1,6 @@
 <div align="center">
 
-# OpenGleam
+# OpenGleam Maps
 
 **A fast, familiar web map built entirely on OpenStreetMap.**
 
